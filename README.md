@@ -1,1 +1,2 @@
 breaking_news_python_bot
+＊Qiitaは日本時間ではないっぽいので毎日08:59に実施することを想定（実施日がtoday）
